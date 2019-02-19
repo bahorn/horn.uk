@@ -1,4 +1,4 @@
-baseURL = "https://horn.uk"
+baseURL = "https://blog.horn.uk"
 languageCode = "en-us"
-title = "B Horn"
+title = "b_horn"
 theme = "hugo-classic"
