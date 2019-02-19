@@ -1,0 +1,4 @@
+baseURL = "https://horn.uk"
+languageCode = "en-us"
+title = "B Horn"
+theme = "hugo-classic"
