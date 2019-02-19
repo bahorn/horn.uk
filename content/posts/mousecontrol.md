@@ -7,7 +7,7 @@ draft: false
 So, at `RU Hacking?` I won both a `Google Home Mini` and a `Rival 110` gaming
 mouse. The mouse lets you set the color, which is kinda cool.
 
-Now, I'm a hacker so I though I should combine these things. And I did.
+Now, I'm a hacker so I thought I should combine these things. And I did.
 
 Result is here: https://github.com/bahorn/voice-controlled-mouse
 
