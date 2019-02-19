@@ -1,6 +1,6 @@
 # Hi!
 
-I'm B Horn and apparently I make things. My goal is to advance human s
+I'm B Horn and apparently I make things.
 
 Some people know me as:
 
