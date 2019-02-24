@@ -11,7 +11,7 @@ Wanted a less JSy version of the Speed project stamp [1], so I made one.
 
 Code is [2]
 
-{{< speedproject time="10" >}}
+{{< speedproject time="60" >}}
 
 ```
 * [1] http://fffff.at/speed-project
